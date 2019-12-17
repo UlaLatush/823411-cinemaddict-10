@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ula Latush](https://up.htmlacademy.ru/ecmascript/10/user/823411).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Куляпин`.
 
 ---
 
